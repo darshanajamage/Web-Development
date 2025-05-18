@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl href="bks.xsl" ?>
+<library>
+  <book id="1">
+    <name> shark tank</name>
+    <author>aman gupta </author>
+    <price> 200$ </price>
+  </book>
+  <book id="2">
+    <name> shark tank</name>
+    <author>aman gupta </author>
+    <price> 200$ </price>
+  </book>
+  <book id="3">
+    <name> shark tank</name>
+    <author>aman gupta </author>
+    <price> 200$ </price>
+  </book>
+</library>

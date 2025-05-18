@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="cars.xsl"?>
+<cars>
+  <car>
+    <make>Toyota</make>
+    <model>Camry</model>
+    <year>2020</year>
+    <color>White</color>
+    <price>24000</price>
+  </car>
+  <car>
+    <make>Honda</make>
+    <model>Civic</model>
+    <year>2019</year>
+    <color>Black</color>
+    <price>20000</price>
+  </car>
+  <car>
+    <make>Ford</make>
+    <model>Mustang</model>
+    <year>2021</year>
+    <color>Red</color>
+    <price>35000</price>
+  </car>
+</cars>
